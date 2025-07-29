@@ -5,10 +5,10 @@
     "GMEEK_VERSION":"last",
     "displayTitle":"Self Awareness",
     "homeUrl":"https://blog.inkabc.dpdns.org",
-    "faviconUrl":"",
+    "faviconUrl":"https://telegraph-image-b.pages.dev/file/AgACAgUAAyEGAASY79dKAAMzaIhf9J0YGxa5YD02PpjgKVjTBUIAAo7FMRtbZUBU7m6QKcdFkn8BAAMCAAN5AAM2BA.png",
     "email":"",
     "startSite":"02/16/2015",
-    "filingNum":"浙ICP备19890000号",
+    "filingNum":"",
     "onePageListNum":15,
     "singlePage":["link"],
     "iconList":{"music":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"},
@@ -29,7 +29,8 @@
     "indexScript":"",
     "showPostSource":1,
     "rssSplit":"sentence",
-    "bottomText":"轉載請注明出處",
-    "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
+    "bottomText":"❤️ 轉載請注明出處 ❤️",
+    "bottomText":"Please indicate the source when reprinting",
+    "ogImage":"",
     "needComment":0
 }
