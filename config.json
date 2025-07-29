@@ -27,10 +27,9 @@
     "allHead":"",
     "indexStyle":"",
     "indexScript":"",
-    "showPostSource":1,
+    "showPostSource":0,
     "rssSplit":"sentence",
-    "bottomText":"❤️ 轉載請注明出處 ❤️",
-    "bottomText":"Please indicate the source when reprinting",
+    "bottomText":"❤️ Please indicate the source when reprinting ❤️",
     "ogImage":"",
     "needComment":0
 }
